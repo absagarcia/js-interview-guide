@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="JavaScript Interview Guide banner" />
+</p>
+
 # 📚 Guía de Estudio para Entrevistas Técnicas en JavaScript
 
 Bienvenido a esta guía práctica de estudio enfocada en ayudarte a prepararte para entrevistas técnicas de desarrollo con JavaScript, organizada por niveles: Junior, Middle y Senior.
@@ -76,4 +80,4 @@ Si este repositorio te ayudó, considera compartirlo o mencionarlo en tus redes,
 
 🎙️ [Coffee and Code en Spotify](https://open.spotify.com/show/coffee-and-code)
 
----# js-interview-guide
+---
